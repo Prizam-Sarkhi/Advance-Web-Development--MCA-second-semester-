@@ -1,0 +1,5 @@
+console.log("Welcome to REPL")
+const x = 10
+x
+console.log(x * 5)
+console.log("Saving this as a file")
